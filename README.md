@@ -14,6 +14,7 @@
 
 Here are some of my projects on Github that I am proud of:
 
+[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=jhasuraj01&repo=github-cron&show_icons=true&theme=dark)](https://github.com/jhasuraj01/github-cron)
 [![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=jhasuraj01&repo=les&show_icons=true&theme=dark)](https://github.com/jhasuraj01/les)
 [![Xper](https://github-readme-stats.vercel.app/api/pin/?username=jhasuraj01&repo=password-generator&show_icons=true&theme=dark)](https://github.com/jhasuraj01/password-generator)
 
@@ -28,7 +29,6 @@ Here are some of my projects on Github that I am proud of:
 ![Skill](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Skill](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Skill](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Skill](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Skill](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Skill](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
