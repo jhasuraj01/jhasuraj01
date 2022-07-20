@@ -1,4 +1,4 @@
-![Pitch Deck Presentation](https://user-images.githubusercontent.com/44930179/135901384-cc735541-d1e0-43ab-8db5-dd9992805047.gif)
+![Suraj Intro](https://user-images.githubusercontent.com/44930179/179933965-d5f0e35c-bb78-4850-ad44-af35c5a5f2ca.png)
 ![](https://visitor-badge.glitch.me/badge?page_id=jhasuraj01)
 
 ## About Me 😊
