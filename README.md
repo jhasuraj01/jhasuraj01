@@ -1,4 +1,4 @@
-![Suraj Intro](https://user-images.githubusercontent.com/44930179/179933965-d5f0e35c-bb78-4850-ad44-af35c5a5f2ca.png)
+[![Suraj Intro](https://user-images.githubusercontent.com/44930179/179933965-d5f0e35c-bb78-4850-ad44-af35c5a5f2ca.png)](https://jhasuraj.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=jhasuraj01)
 
 ## About Me 😊
