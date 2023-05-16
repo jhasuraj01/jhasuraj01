@@ -1,9 +1,9 @@
 [![Suraj Intro](https://user-images.githubusercontent.com/44930179/179933965-d5f0e35c-bb78-4850-ad44-af35c5a5f2ca.png)](https://jhasuraj.com/)
-![](https://visitor-badge.glitch.me/badge?page_id=jhasuraj01)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=jhasuraj01) -->
 
 ## About Me 😊
 - 🌱 I am a Student Developer and Designer
-- 🚀 On a vacation with **AWS, GCP, AI and ML, UI/UX, etc**
+- 🚀 On a vacation with **Node.js, React.js, AWS, Blockchain, UI/UX, etc**
 - 👯 **Team player**
 - 👨‍💻 Check my website [jhasuraj.com](https://jhasuraj.com)
 - ⚡ Fun fact **I speak a lot 🤐**
@@ -12,9 +12,9 @@
 
 ---
 
-![Suraj's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhasuraj01&theme=rogue&hide_border=true&area=true)
+<!-- ![Suraj's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhasuraj01&theme=rogue&hide_border=true&area=true) -->
 
----
+<!-- --- -->
 
 <br>
 
