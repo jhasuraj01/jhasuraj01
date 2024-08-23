@@ -1,12 +1,13 @@
-[![Suraj Intro](https://user-images.githubusercontent.com/44930179/179933965-d5f0e35c-bb78-4850-ad44-af35c5a5f2ca.png)](https://jhasuraj.com/)
+<!-- [![Suraj Intro](https://user-images.githubusercontent.com/44930179/179933965-d5f0e35c-bb78-4850-ad44-af35c5a5f2ca.png)](https://jhasuraj.com/) -->
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=jhasuraj01) -->
 
 ## About Me 😊
-- 🌱 I am a Student Developer and Designer
-- 🚀 On a vacation with **Node.js, React.js, AWS, Blockchain, UI/UX, etc**
-- 👯 **Team player**
+- Software Engineer 1 @ Uber
+- Ex. Backend Engineer Intern @ Barclays
+- Ex. Full Stack Developer Intern @ Cypherock
+- Ex. Educator @ CodeChef
+- Best Outgoing Student 2024 Batch @ PCCOE
 - 👨‍💻 Check my website [jhasuraj.com](https://jhasuraj.com)
-- ⚡ Fun fact **I speak a lot 🤐**
 
 [![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhasuraj01&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/jhasuraj01)
 
