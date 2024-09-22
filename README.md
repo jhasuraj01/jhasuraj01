@@ -8,7 +8,6 @@
 - Ex. Educator @ CodeChef
 
 ## Achievements 🏆
-- Knight @Leetcode
 - ICPC Regionalist (Twice)
 - AIR 66, Innovate India Coding Championship 2022
 - Best Outgoing Student 2024 Batch @ PCCOE
