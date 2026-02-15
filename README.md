@@ -16,7 +16,7 @@
 - [Personal Portfolio](https://jhasuraj.com)
 - [LinkedIn Profile](https://linkedin.jhasuraj.com)
 
-[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhasuraj01&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/jhasuraj01)
+<!-- [![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhasuraj01&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/jhasuraj01) -->
 
 ---
 
