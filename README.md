@@ -2,7 +2,7 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=jhasuraj01) -->
 
 ## Work Experience 😊
-- Software Engineer 1 @ Uber
+- Software Engineer @ Uber
 - Ex. Backend Engineer Intern @ Barclays
 - Ex. Full Stack Developer Intern @ Cypherock
 - Ex. Educator @ CodeChef
